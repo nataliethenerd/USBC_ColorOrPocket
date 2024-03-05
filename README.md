@@ -1,8 +1,8 @@
 # USBC_ColorOrPocket
 USB C for the Game Boy Color or Pocket... or Pocket Color
 
-![Board](https://github.com/nataliethenerd/USBC_ColorOrPocket/blob/f311cff678068c9ff93b1ee5621a57371404b2fa/assets/usbc.png)
-![OnGBC](https://github.com/nataliethenerd/USBC_ColorOrPocket/blob/f311cff678068c9ff93b1ee5621a57371404b2fa/assets/usbc.png)
+![Board](assets/usbc.png)
+![OnGBC](assets/usbc.png)
 
 ## NOTES
 - This board is for LiPo mods. The anchor points connect to the Game Boy's GND, the pad goes to 5V.
